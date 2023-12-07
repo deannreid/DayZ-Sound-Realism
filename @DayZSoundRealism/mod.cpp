@@ -1,0 +1,11 @@
+	name=" ";
+	picture = " ";
+	logo = " ";
+	logoSmall = " ";
+	logoOver = " ";
+	action=" ";
+	author="BigDeano";
+	authorID="76561198001768308";
+	version = "1.0.000";
+	overview = "A mod that brings a more realistic soundscape to DayZ.";
+	tooltip = "A mod that brings a more realistic soundscape to DayZ.";
