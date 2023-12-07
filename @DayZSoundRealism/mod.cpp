@@ -1,9 +1,9 @@
-	name=" ";
-	picture = " ";
-	logo = " ";
-	logoSmall = " ";
-	logoOver = " ";
-	action=" ";
+	name="DayZ Sound Realism";
+	picture = "";
+	logo = "";
+	logoSmall = "";
+	logoOver = "";
+	action="https://github.com/deannreid/DayZ-Sound-Realism";
 	author="BigDeano";
 	authorID="76561198001768308";
 	version = "1.0.000";
